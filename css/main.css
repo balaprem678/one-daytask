@@ -1,0 +1,133 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+  overflow-x: hidden;
+}
+.nav {
+  display: flex;
+  background-color: #ccc;
+  justify-content: space-between;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+.nav img {
+  position: relative;
+  left: 100px;
+  width: 48px;
+  height: 30px;
+}
+.nav i {
+  position: relative;
+  right: 100px;
+  font-size: 30px;
+}
+.car-wash-company {
+  display: flex;
+  background-color: #f01327;
+  color: #fff;
+  height: 580px;
+  padding-top: 60px;
+}
+.car-wash-company h1 {
+  font-weight: 700;
+    line-height: 1;
+    font-family: sans-serif;
+    font-size: 4rem;
+    position: relative;
+    left: 168px;
+    width: 320px;
+}
+.car-wash-company blockquote p{
+  margin-top: 38px;
+  position: relative;
+  left: 170px;
+  font-size: 1.25rem;
+  line-height: 29px;
+  font-family: sans-serif;
+
+}
+.car-wash-company .freepik{
+  position: relative;
+    left: 170px;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+.car-wash-company p a {
+  color: #fff;
+}
+.car-wash-company button{
+  position: relative;
+    left: 170px;
+    margin-top: 25px;
+    padding: 15px 56px;
+    font-weight: 700;
+    font-size: 15px;
+    background-color: #f01327;
+    border: 2px solid #fff;
+    color: #fff;
+}
+.car-wash-company .dsaf img{
+  height: 540px;
+    width: 540px;
+    margin-top: 34px;
+    border-radius: 350px;
+    position: relative;
+    left: 215px;
+    border: 15px solid #fff;
+}
+.car-wash-company .big-circle{
+  box-sizing: border-box;
+    width: 120px;
+    height: 120px;
+    background-color: #f01327;
+    position: relative;
+    top: -105px;
+    left: 316px;
+    border-radius: 50%;
+}
+.innovative-car-wash-System{
+  margin-top: 300px;
+  display: flex;
+}
+.innovative-car-wash-System-1 .innovative-img-1{
+  width: 567px;
+    height: 567px;
+    border-radius: 50%;
+    position: relative;
+    left: 260px;
+}
+.innovative-car-wash-System-1 .innovative-img-2{
+  width: 567px;
+    height: 567px;
+    border-radius: 50%;
+    position: relative;
+    left: 260px;
+}
+.form{
+  background-color: #292d33;
+  height: 700px;
+  position: relative;
+}
+.form .circle{
+  box-sizing: border-box;
+  width: 626px;
+    height: 626px;
+  background-color: #f01327;
+  position: relative;
+  top: 40px;
+  left: 350px;
+    border-radius: 50%;
+}
+.form-table{
+  
+}
+.form-left{
+  position: absolute;
+  top: 104px;
+  width: 571px;
+  height: 800px;
+  background-color: black;
+  left: 108px;
+}
